@@ -16,3 +16,6 @@ The icons were made using [**Font Awesome**](https://fontawesome.com/).
 \usepackage{fontawesome}
 ```
 
+Here's a screen shot of the poster:
+
+![](ss.png)
