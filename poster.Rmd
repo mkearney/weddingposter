@@ -1,0 +1,50 @@
+---
+output: 
+  beamer_presentation:
+    highlight: null
+    includes:
+      in_header: pre.tex
+    latex_engine: xelatex
+---
+
+
+\Huge
+\sffamily
+\begin{center}
+Order of Events
+
+\vspace{1.5in}
+
+\LARGE
+\rmfamily
+
+\begin{longtable}[]{@{}rcl@{}}
+\endhead
+\hspace{1in}5:00pm\hspace{4in}  & \Huge\faHeart\hspace{3in}        & \LARGE Ceremony\\
+\hspace{1in}5:30pm\hspace{4in}  & \Huge\faGlass\hspace{3in}        & \LARGE Apps \& Drinks\\
+\hspace{1in}7:00pm\hspace{4in}  & \Huge\faCutlery\hspace{3in}      & \LARGE Dinner\\
+\hspace{1in}7:45pm\hspace{4in}  & \Huge\faBeer\hspace{3in}         & \LARGE Toasts\\
+\hspace{1in}8:00pm\hspace{4in}  & \Huge\faBirthdayCake\hspace{3in} & \LARGE Cake \& Firsts\\
+\hspace{1in}8:15pm\hspace{4in}  & \Huge\faMusic\hspace{3in}        & \LARGE Party Time\\
+\hspace{1in}11:30pm\hspace{4in} & \Huge\faVolumeDown\hspace{3in}   & \LARGE Last Song\\
+\end{longtable}
+
+\vspace{1.5in}
+
+\ttfamily
+\large
+
+Thank you for celebrating with us
+
+\rmfamily
+\Huge
+CASSANDRA \& MICHAEL 
+
+\vspace{1in}
+
+\sffamily
+\Large
+March 24, 2018
+
+
+\end{center}
